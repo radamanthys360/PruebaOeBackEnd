@@ -10,3 +10,5 @@ json de prueba
 Luego en el metodo get se puede verificar la data.
 
 EL archivo de persistencia esta configurado para crear la base de datos.
+
+esta corriendo con javaee7 y usando un jdk 8.
